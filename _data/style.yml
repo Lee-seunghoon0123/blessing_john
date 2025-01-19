@@ -4,7 +4,7 @@
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header.png"
+header-image: https://ae.sejong.ac.kr/shop_contents/multi_file_img_view.php?type=myboard&data_idx=1793106&col_num=12&dir_name=professor&thum_w=250&thum_h=330&thum_cut_yn=0
 contact-image: "../img/contact.png"
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x

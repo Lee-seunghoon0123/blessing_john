@@ -5,9 +5,9 @@ image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: 심한슬
+  subtitle: 헤헿
+  thumbnail: https://ae.sejong.ac.kr/shop_contents/multi_file_img_view.php?type=myboard&data_idx=2016691&col_num=12&dir_name=professor&thum_w=250&thum_h=330&thum_cut_yn=0
 ---
 
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
